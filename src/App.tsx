@@ -105,7 +105,7 @@ function App() {
         </div>
 
         <h2 className="text-white pb-4">SOL Faucet</h2>
-        <h3 className="sub-heading pb-4">Get your airdrop</h3>
+        <h3 className="sub-heading pb-4">Powered by <a href="https://twitter.com/districtzgroup" target="_blank" rel="noreferrer">Districtz</a></h3>
         <Form className="form">
           <Form.Group className="mb-3" controlId="formBasicEmail">
             <Form.Control
